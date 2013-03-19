@@ -3,6 +3,8 @@ Powerline style prompt for Bash (and now, ZSH)
 
 A [Powerline](https://github.com/Lokaltog/vim-powerline) like prompt for Bash/ZSH:
 
+This repo includes the fonts from [https://github.com/eugeneching/consolas-powerline-vim](https://github.com/eugeneching/consolas-powerline-vim) to make it easier for use with PuTTY under Windoze.
+
 ![MacVim+Solarized+Powerline+CtrlP](https://raw.github.com/milkbikis/dotfiles-mac/master/bash-powerline-screenshot.png)
 
 *  Shows some important details about the git branch:
